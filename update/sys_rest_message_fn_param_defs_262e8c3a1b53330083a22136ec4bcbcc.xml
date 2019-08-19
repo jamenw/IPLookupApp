@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>displayPercent</name>
+        <order>100</order>
+        <rest_message_function display_value="GET Quote">107d40b61b53330083a22136ec4bcb17</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 18:22:20</sys_created_on>
+        <sys_id>262e8c3a1b53330083a22136ec4bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>displayPercent</sys_name>
+        <sys_package display_value="IPLookup" source="x_76238_iplookup">c72ac8f21b13330083a22136ec4bcb72</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">c72ac8f21b13330083a22136ec4bcb72</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_262e8c3a1b53330083a22136ec4bcbcc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 18:22:20</sys_updated_on>
+        <value>true</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>
